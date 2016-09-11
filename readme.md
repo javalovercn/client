@@ -2,7 +2,7 @@ Android
 
 ***
 
-![android](https://homecenter.mobi/images/qrapk.png)
+![android](https://github.com/javalovercn/client/raw/master/qr_imgs/qrapk.png)
 
 ***
 ***
@@ -11,7 +11,7 @@ iPhone
 
 ***
 
-![iphone](https://homecenter.mobi/images/qrios.png)
+![iphone](https://github.com/javalovercn/client/raw/master/qr_imgs/qrios.png)
 
 ***
 ***
@@ -20,4 +20,4 @@ J2ME
 
 ***
 
-![j2me](https://homecenter.mobi/images/qrcode.png)
+![j2me](https://github.com/javalovercn/client/raw/master/qr_imgs/qrcode.png)
