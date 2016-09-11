@@ -1,8 +1,4 @@
-Android
-
-***
-
-![android](https://homecenter.mobi/images/qrapk.png)
+Android  ![android](https://homecenter.mobi/images/qrapk.png)
 
 ***
 
