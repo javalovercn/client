@@ -1,4 +1,4 @@
-![android](http://homecenter.mobi/images/android.png)Android (Android 4.3 or later)
+![android](http://homecenter.mobi/images/android.png)Android (4.3 or later)
 
 ![android](https://github.com/javalovercn/client/raw/master/qr_imgs/qrapk.png)
 
