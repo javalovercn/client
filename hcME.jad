@@ -4,10 +4,10 @@ Created-By: 1.7.0_51-b13 (Oracle Corporation)
 MIDlet-1: HomeCenter,/hc/j2me/res/hc_64.png,hc.j2me.Main
 MIDlet-Name: HomeCenter
 MIDlet-Description: Mobile Remote Control PC
-MIDlet-Jar-Size: 4463393
+MIDlet-Jar-Size: 4511690
 MIDlet-Jar-URL: hcME.jar
 MIDlet-Vendor: HomeCenter.MOBI
-MIDlet-Version: 7.22
+MIDlet-Version: 7.23
 MicroEdition-Configuration: CLDC-1.0
 MicroEdition-Profile: MIDP-2.0
 
