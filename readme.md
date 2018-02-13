@@ -1,4 +1,4 @@
-official download : http://homecenter.mobi/en/pc/downloads.htm
+official download : https://homecenter.mobi/en/pc/downloads.htm
 
 ***
 
