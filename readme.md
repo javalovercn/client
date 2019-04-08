@@ -1,3 +1,6 @@
+**root server is shutdown, this client can't connect to your server any more!**
+
+
 official download : https://homecenter.mobi/en/pc/downloads.htm
 
 ***
